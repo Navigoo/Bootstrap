@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap');
+
+
+
+
+.container-bootstrap{
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+    
+}
+
+.container-bootstrap .card{
+   margin-left: 40px;
+   margin-top: 40px;
+}
+
+.form{
+  
+    margin-top:30vh;
+    width: 80%;
+    align-items: center;
+    margin:auto;
+}
+
+.navbar-brand{
+    color:red!important;
+}
